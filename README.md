@@ -19,8 +19,6 @@ Corrected file
 
 issue_report.txt
 
-SHA256 checksum for integrity
-
 ✅ Privacy First — Runs locally or in a ZRA sandbox, never sends real PII to external services
 
 🧩 Key Validation Rules
@@ -30,7 +28,7 @@ Date Format	Must follow ISO standard YYYY-MM-DD
 VAT Rate	Default to 16% if missing
 Line Total	Must equal quantity * unitPrice
 VAT Calculation	VAT = taxable * 0.16
-Grand Total	taxable + VAT (rounded to 2 decimals)
+Grand Total	taxable + VAT 
 🔄 Auto-Fix Actions
 
 Normalize TPIN formats
