@@ -1,0 +1,34 @@
+[
+  {
+    "InvoiceNumber": "INV-001",
+    "TPIN": "100234567",
+    "Date": "15/06/2024",
+    "TaxableAmount": 1000,
+    "VATRate": "",
+    "VATAmount": 150,
+    "GrandTotal": 1150,
+    "LineItems": [
+      {
+        "Description": "Office Supplies",
+        "Quantity": 10,
+        "UnitPrice": 50,
+        "LineTotal": 499
+      },
+      {
+        "Description": "Software License",
+        "Quantity": 1,
+        "UnitPrice": 500,
+        "LineTotal": 505
+      }
+    ]
+  },
+  {
+    "InvoiceNumber": "INV-002",
+    "TPIN": "TPIN98765432X",
+    "Date": "2024/06/20",
+    "TaxableAmount": 2500,
+    "VATRate": 18,
+    "VATAmount": 400,
+    "GrandTotal": 2900
+  }
+]

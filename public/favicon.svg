@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="ZRA Fixer favicon">
+  <rect width="100%" height="100%" rx="12" fill="#0ea5a4" />
+  <g fill="#fff" transform="translate(8 8)">
+    <path d="M8 28c0-6.627 5.373-12 12-12s12 5.373 12 12-5.373 12-12 12S8 34.627 8 28z"/>
+    <path d="M22 6L18 16h8l-4-10z"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+  <InvoiceNumber>INV-2024-001</InvoiceNumber>
+  <TPIN>1098765432</TPIN>
+  <Date>25-06-2024</Date>
+  <TaxableAmount>10000</TaxableAmount>
+  <VATRate></VATRate>
+  <VATAmount>1500</VATAmount>
+  <GrandTotal>11500</GrandTotal>
+  <LineItems>
+    <Item>
+      <Description>Consulting Services</Description>
+      <Quantity>20</Quantity>
+      <UnitPrice>250</UnitPrice>
+      <LineTotal>4950</LineTotal>
+    </Item>
+    <Item>
+      <Description>Training Materials</Description>
+      <Quantity>50</Quantity>
+      <UnitPrice>100</UnitPrice>
+      <LineTotal>5100</LineTotal>
+    </Item>
+  </LineItems>
+</Invoice>
